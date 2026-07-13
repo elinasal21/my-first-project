@@ -4,4 +4,3 @@ and no javascript just for design ..
 .
 .
 .
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=elinasal21&theme=tokyonight&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
